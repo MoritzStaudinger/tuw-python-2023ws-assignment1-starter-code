@@ -1,2 +1,2 @@
-# tuw-python-2022ws-assignment1-starter-code
+# tuw-python-2023ws-assignment1-starter-code
 TUW Programming in Python course - Assignment 1
